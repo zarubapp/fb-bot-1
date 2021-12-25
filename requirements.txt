@@ -1,2 +1,5 @@
 telebot~=0.0.4
 requests~=2.26.0
+pandas~=1.3.4
+fsspec~=2021.10.1
+ipython~=7.29.0
